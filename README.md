@@ -19,4 +19,4 @@ https://sonia-calculatorapp-web.netlify.app/
 
 ## Screenshots
 #### Desktop Site & Mobile View 
-![image]https://github.com/Sbaidya60/OIBGRIP/blob/main/Desktop%20View%20(1).gif)
+![image](https://github.com/Sbaidya60/OIBGRIP/blob/main/Desktop%20View%20(1).gif)
