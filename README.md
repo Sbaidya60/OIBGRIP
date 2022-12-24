@@ -1,8 +1,7 @@
-![image](https://github.com/priyanshuengine/OIBGRIP/blob/main/0VXrdh5x_400x400.jpg)
 
 # Internship Project
 
-## Temperature-Converter
+## Simple Calculator
 Convert's Temperatue from Celsius to Fahrenheit and vice versa
 
 ## Live Site URL
