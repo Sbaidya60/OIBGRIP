@@ -6,7 +6,7 @@
 Convert's Temperatue from Celsius to Fahrenheit and vice versa
 
 ## Live Site URL
-https://priyanshu-internship-project.vercel.app/
+https://sonia-calculatorapp-web.netlify.app/
 
 ## Built With 
 - HTML5
@@ -14,9 +14,9 @@ https://priyanshu-internship-project.vercel.app/
 - JAVASCRIPT
 
 ## Features
-- Light & Dark Theme
-- Temperature Conversion
+- Mathematics Calculation
+- Preloader JS
 
 ## Screenshots
 #### Desktop Site & Mobile View 
-![image](https://github.com/priyanshuengine/OIBGRIP/blob/main/Temperature-Converter-Website.jpg)
+![image]https://github.com/Sbaidya60/OIBGRIP/blob/main/Desktop%20View%20(1).gif)
