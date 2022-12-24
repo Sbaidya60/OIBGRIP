@@ -1,6 +1,22 @@
-# javascript-calculator
-A simple calculator built using HTML, CSS and JavaScript
+![image](https://github.com/priyanshuengine/OIBGRIP/blob/main/0VXrdh5x_400x400.jpg)
 
-Demo: https://alexflorides.github.io/javascript-calculator/
+# Internship Project
 
-![image](https://user-images.githubusercontent.com/47948084/153292695-9af247e2-2bd5-476f-8567-dbaa2bf50cd1.png)
+## Temperature-Converter
+Convert's Temperatue from Celsius to Fahrenheit and vice versa
+
+## Live Site URL
+https://priyanshu-internship-project.vercel.app/
+
+## Built With 
+- HTML5
+- CSS3
+- JAVASCRIPT
+
+## Features
+- Light & Dark Theme
+- Temperature Conversion
+
+## Screenshots
+#### Desktop Site & Mobile View 
+![image](https://github.com/priyanshuengine/OIBGRIP/blob/main/Temperature-Converter-Website.jpg)
