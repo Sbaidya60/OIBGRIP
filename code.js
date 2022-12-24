@@ -404,3 +404,7 @@ function keyReleased(e){
         document.getElementById("backspace_btn").style.backgroundColor  = "#666666";
     }
 }
+window.addEventListener('load',function(){
+    document.querySelector('body').classList.add("loaded")  
+  });
+  

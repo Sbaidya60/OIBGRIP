@@ -1,25 +1,6 @@
-![image]()
+# javascript-calculator
+A simple calculator built using HTML, CSS and JavaScript
 
-# Internship Project
+Demo: https://alexflorides.github.io/javascript-calculator/
 
-## Simple-Calculator
-Convert's Temperatue from Celsius to Fahrenheit and vice versa
-
-## Live Site URL
-
-
-## Built With 
-- HTML5
-- CSS3
-- JAVASCRIPT
-
-## Features
-- Calculator
-- 
-
-## Screenshots
-#### Desktop Site & Mobile View 
-![image]()
-
-
-
+![image](https://user-images.githubusercontent.com/47948084/153292695-9af247e2-2bd5-476f-8567-dbaa2bf50cd1.png)
