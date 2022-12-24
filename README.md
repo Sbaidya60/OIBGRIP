@@ -1,7 +1,6 @@
 # Internship Project
 
 ## Simple-Calculator
-Convert's Temperatue from Celsius to Fahrenheit and vice versa
 
 ## Live Site URL
 https://sonia-calculatorapp-web.netlify.app/
