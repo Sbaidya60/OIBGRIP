@@ -1,6 +1,20 @@
-# javascript-calculator
-A simple calculator built using HTML, CSS and JavaScript
+# Internship Project
 
-Demo: https://alexflorides.github.io/javascript-calculator/
+## Simple-Calculator
+Convert's Temperatue from Celsius to Fahrenheit and vice versa
 
-![image](https://user-images.githubusercontent.com/47948084/153292695-9af247e2-2bd5-476f-8567-dbaa2bf50cd1.png)
+## Live Site URL
+https://sonia-calculatorapp-web.netlify.app/
+
+## Built With 
+- HTML5
+- CSS3
+- JAVASCRIPT
+
+## Features
+- Preloader JS
+- Scientific Calculator
+
+## Screenshots
+#### Desktop Site & Mobile View 
+![image](https://github.com/Sbaidya60/OIBGRIP/blob/main/Desktop%20View%20(1).gif)
